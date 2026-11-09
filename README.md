@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0624-maximum-distance-in-arrays](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0624-maximum-distance-in-arrays/) | Medium |
+| [0996-number-of-squareful-arrays](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0996-number-of-squareful-arrays/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -18,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0996-number-of-squareful-arrays](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0996-number-of-squareful-arrays/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0012-integer-to-roman/) | Medium |
+| [0996-number-of-squareful-arrays](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0996-number-of-squareful-arrays/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0010-regular-expression-matching/) | Hard |
+| [0996-number-of-squareful-arrays](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0996-number-of-squareful-arrays/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,4 +84,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0996-number-of-squareful-arrays](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0996-number-of-squareful-arrays/) | Hard |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0996-number-of-squareful-arrays](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0996-number-of-squareful-arrays/) | Hard |
+## Bitmask
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0996-number-of-squareful-arrays](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0996-number-of-squareful-arrays/) | Hard |
 <!---LeetCode Topics End-->
