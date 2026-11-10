@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0189-rotate-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0189-rotate-array/) | Medium |
+| [0330-patching-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0330-patching-array/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0624-maximum-distance-in-arrays](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0624-maximum-distance-in-arrays/) | Medium |
 | [0996-number-of-squareful-arrays](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0996-number-of-squareful-arrays/) | Hard |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0011-container-with-most-water/) | Medium |
+| [0330-patching-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0330-patching-array/) | Hard |
 | [0624-maximum-distance-in-arrays](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0624-maximum-distance-in-arrays/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
