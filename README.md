@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0561-array-partition/) | Easy |
 | [0565-array-nesting](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0565-array-nesting/) | Medium |
 | [0624-maximum-distance-in-arrays](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0624-maximum-distance-in-arrays/) | Medium |
+| [0896-monotonic-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0896-monotonic-array/) | Easy |
 | [0996-number-of-squareful-arrays](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0996-number-of-squareful-arrays/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
