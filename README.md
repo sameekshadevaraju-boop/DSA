@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0525-contiguous-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0561-array-partition](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0561-array-partition/) | Easy |
+| [0565-array-nesting](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0565-array-nesting/) | Medium |
 | [0624-maximum-distance-in-arrays](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0624-maximum-distance-in-arrays/) | Medium |
 | [0996-number-of-squareful-arrays](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0996-number-of-squareful-arrays/) | Hard |
 ## Hash Table
@@ -114,4 +115,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0561-array-partition/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0565-array-nesting](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0565-array-nesting/) | Medium |
 <!---LeetCode Topics End-->
