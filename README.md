@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0932-beautiful-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0932-beautiful-array/) | Medium |
 | [0996-number-of-squareful-arrays](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0996-number-of-squareful-arrays/) | Hard |
 | [1146-snapshot-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1146-snapshot-array/) | Medium |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
