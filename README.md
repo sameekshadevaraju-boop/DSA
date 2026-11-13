@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0996-number-of-squareful-arrays](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0996-number-of-squareful-arrays/) | Hard |
 | [1146-snapshot-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1146-snapshot-array/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3379-transformed-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3379-transformed-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,4 +136,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1146-snapshot-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1146-snapshot-array/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3379-transformed-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3379-transformed-array/) | Easy |
 <!---LeetCode Topics End-->
