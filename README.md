@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0330-patching-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0330-patching-array/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0384-shuffle-an-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0384-shuffle-an-array/) | Medium |
+| [0457-circular-array-loop](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0457-circular-array-loop/) | Medium |
 | [0525-contiguous-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0561-array-partition](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0561-array-partition/) | Easy |
 | [0565-array-nesting](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0565-array-nesting/) | Medium |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0457-circular-array-loop](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0457-circular-array-loop/) | Medium |
 | [0525-contiguous-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0996-number-of-squareful-arrays](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0996-number-of-squareful-arrays/) | Hard |
 | [1146-snapshot-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1146-snapshot-array/) | Medium |
@@ -88,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0457-circular-array-loop](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0457-circular-array-loop/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,4 +175,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0384-shuffle-an-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0384-shuffle-an-array/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0457-circular-array-loop](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0457-circular-array-loop/) | Medium |
 <!---LeetCode Topics End-->
