@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0330-patching-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0330-patching-array/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0384-shuffle-an-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0384-shuffle-an-array/) | Medium |
 | [0525-contiguous-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0561-array-partition](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0561-array-partition/) | Easy |
 | [0565-array-nesting](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0565-array-nesting/) | Medium |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0189-rotate-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0189-rotate-array/) | Medium |
+| [0384-shuffle-an-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0384-shuffle-an-array/) | Medium |
 | [0932-beautiful-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0932-beautiful-array/) | Medium |
 | [0996-number-of-squareful-arrays](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0996-number-of-squareful-arrays/) | Hard |
 ## Recursion
@@ -136,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0384-shuffle-an-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0384-shuffle-an-array/) | Medium |
 | [1146-snapshot-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1146-snapshot-array/) | Medium |
 ## Persistent Data Structure
 | Problem Name | Difficulty |
@@ -165,4 +168,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0384-shuffle-an-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0384-shuffle-an-array/) | Medium |
 <!---LeetCode Topics End-->
