@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0896-monotonic-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0896-monotonic-array/) | Easy |
 | [0912-sort-an-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [0932-beautiful-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0932-beautiful-array/) | Medium |
+| [0941-valid-mountain-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0941-valid-mountain-array/) | Easy |
 | [0996-number-of-squareful-arrays](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0996-number-of-squareful-arrays/) | Hard |
 | [1146-snapshot-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1146-snapshot-array/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
