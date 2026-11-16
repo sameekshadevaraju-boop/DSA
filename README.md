@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0932-beautiful-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0932-beautiful-array/) | Medium |
 | [0941-valid-mountain-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0941-valid-mountain-array/) | Easy |
 | [0996-number-of-squareful-arrays](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0996-number-of-squareful-arrays/) | Hard |
+| [1122-relative-sort-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1122-relative-sort-array/) | Easy |
 | [1146-snapshot-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1146-snapshot-array/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0457-circular-array-loop](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0457-circular-array-loop/) | Medium |
 | [0525-contiguous-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0996-number-of-squareful-arrays](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0996-number-of-squareful-arrays/) | Hard |
+| [1122-relative-sort-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1122-relative-sort-array/) | Easy |
 | [1146-snapshot-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1146-snapshot-array/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0561-array-partition](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0561-array-partition/) | Easy |
 | [0912-sort-an-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0912-sort-an-array/) | Medium |
+| [1122-relative-sort-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1122-relative-sort-array/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0561-array-partition](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0561-array-partition/) | Easy |
 | [0912-sort-an-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0912-sort-an-array/) | Medium |
+| [1122-relative-sort-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1122-relative-sort-array/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -208,4 +212,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0912-sort-an-array/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1122-relative-sort-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1122-relative-sort-array/) | Easy |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1122-relative-sort-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1122-relative-sort-array/) | Easy |
 <!---LeetCode Topics End-->
