@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [1416-restore-the-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1416-restore-the-array/) | Hard |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/sameekshadevaraju-boop/DSA/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/sameekshadevaraju-boop/DSA/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0457-circular-array-loop](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0457-circular-array-loop/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/sameekshadevaraju-boop/DSA/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0996-number-of-squareful-arrays](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0996-number-of-squareful-arrays/) | Hard |
 | [1416-restore-the-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1416-restore-the-array/) | Hard |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/sameekshadevaraju-boop/DSA/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
