@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1416-restore-the-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1416-restore-the-array/) | Hard |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/sameekshadevaraju-boop/DSA/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/sameekshadevaraju-boop/DSA/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/sameekshadevaraju-boop/DSA/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
