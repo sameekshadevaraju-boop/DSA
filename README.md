@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [1883-minimum-skips-to-arrive-at-meeting-on-time](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1883-minimum-skips-to-arrive-at-meeting-on-time/) | Hard |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/sameekshadevaraju-boop/DSA/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3379-transformed-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3379-transformed-array/) | Easy |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1146-snapshot-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1146-snapshot-array/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/sameekshadevaraju-boop/DSA/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0561-array-partition/) | Easy |
 | [0912-sort-an-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1122-relative-sort-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1122-relative-sort-array/) | Easy |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/sameekshadevaraju-boop/DSA/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0525-contiguous-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0525-contiguous-array/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/sameekshadevaraju-boop/DSA/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
