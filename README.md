@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [1883-minimum-skips-to-arrive-at-meeting-on-time](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1883-minimum-skips-to-arrive-at-meeting-on-time/) | Hard |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sameekshadevaraju-boop/DSA/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/sameekshadevaraju-boop/DSA/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/sameekshadevaraju-boop/DSA/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0330-patching-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0330-patching-array/) | Hard |
 | [0561-array-partition](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0561-array-partition/) | Easy |
 | [0624-maximum-distance-in-arrays](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0624-maximum-distance-in-arrays/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sameekshadevaraju-boop/DSA/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0561-array-partition/) | Easy |
 | [0912-sort-an-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1122-relative-sort-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1122-relative-sort-array/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sameekshadevaraju-boop/DSA/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/sameekshadevaraju-boop/DSA/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
