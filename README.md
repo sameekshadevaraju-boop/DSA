@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [1883-minimum-skips-to-arrive-at-meeting-on-time](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1883-minimum-skips-to-arrive-at-meeting-on-time/) | Hard |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/sameekshadevaraju-boop/DSA/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/sameekshadevaraju-boop/DSA/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3379-transformed-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3379-transformed-array/) | Easy |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0996-number-of-squareful-arrays](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0996-number-of-squareful-arrays/) | Hard |
 | [1122-relative-sort-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1122-relative-sort-array/) | Easy |
 | [1146-snapshot-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1146-snapshot-array/) | Medium |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/sameekshadevaraju-boop/DSA/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
