@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/sameekshadevaraju-boop/DSA/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3151-special-array-i](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3151-special-array-i/) | Easy |
+| [3152-special-array-ii](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3152-special-array-ii/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3379-transformed-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3379-transformed-array/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1146-snapshot-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1146-snapshot-array/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/sameekshadevaraju-boop/DSA/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
+| [3152-special-array-ii](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3152-special-array-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0525-contiguous-array/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/sameekshadevaraju-boop/DSA/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
+| [3152-special-array-ii](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3152-special-array-ii/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
