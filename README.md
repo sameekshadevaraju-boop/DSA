@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0565-array-nesting](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0565-array-nesting/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
@@ -249,4 +251,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1122-relative-sort-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1122-relative-sort-array/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
