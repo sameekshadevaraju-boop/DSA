@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3151-special-array-i](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3151-special-array-i/) | Easy |
 | [3152-special-array-ii](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3152-special-array-ii/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3379-transformed-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3379-transformed-array/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1122-relative-sort-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1122-relative-sort-array/) | Easy |
 | [1146-snapshot-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1146-snapshot-array/) | Medium |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/sameekshadevaraju-boop/DSA/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2243-calculate-digit-sum-of-a-string](https://github.com/sameekshadevaraju-boop/DSA/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/sameekshadevaraju-boop/DSA/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/sameekshadevaraju-boop/DSA/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0565-array-nesting](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0565-array-nesting/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -258,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
