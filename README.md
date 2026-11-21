@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0010-regular-expression-matching/) | Hard |
+| [0095-unique-binary-search-trees-ii](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0996-number-of-squareful-arrays](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0996-number-of-squareful-arrays/) | Hard |
 | [1416-restore-the-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1416-restore-the-array/) | Hard |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0996-number-of-squareful-arrays](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0996-number-of-squareful-arrays/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -255,8 +257,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0095-unique-binary-search-trees-ii](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0095-unique-binary-search-trees-ii](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 <!---LeetCode Topics End-->
