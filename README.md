@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0996-number-of-squareful-arrays](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0996-number-of-squareful-arrays/) | Hard |
 | [1122-relative-sort-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1122-relative-sort-array/) | Easy |
 | [1146-snapshot-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1146-snapshot-array/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1470-shuffle-the-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1470-shuffle-the-array/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0384-shuffle-an-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0384-shuffle-an-array/) | Medium |
 | [0932-beautiful-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0932-beautiful-array/) | Medium |
 | [0996-number-of-squareful-arrays](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0996-number-of-squareful-arrays/) | Hard |
+| [1352-product-of-the-last-k-numbers](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3525-find-x-value-of-array-ii/) | Hard |
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0525-contiguous-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0525-contiguous-array/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/sameekshadevaraju-boop/DSA/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
 | [3152-special-array-ii](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3152-special-array-ii/) | Medium |
@@ -205,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0384-shuffle-an-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0384-shuffle-an-array/) | Medium |
 | [1146-snapshot-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1146-snapshot-array/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Persistent Data Structure
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -289,4 +293,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0095-unique-binary-search-trees-ii](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
