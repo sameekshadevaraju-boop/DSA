@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3364-minimum-positive-sum-subarray](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3379-transformed-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3379-transformed-array/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+| [3524-find-x-value-of-array-i](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0932-beautiful-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0932-beautiful-array/) | Medium |
 | [0996-number-of-squareful-arrays](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0996-number-of-squareful-arrays/) | Hard |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [3524-find-x-value-of-array-i](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1883-minimum-skips-to-arrive-at-meeting-on-time](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1883-minimum-skips-to-arrive-at-meeting-on-time/) | Hard |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/sameekshadevaraju-boop/DSA/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
+| [3524-find-x-value-of-array-i](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
