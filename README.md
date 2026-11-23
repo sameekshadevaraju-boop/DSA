@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3379-transformed-array](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3379-transformed-array/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3525-find-x-value-of-array-ii](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0996-number-of-squareful-arrays](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0996-number-of-squareful-arrays/) | Hard |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sameekshadevaraju-boop/DSA/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3525-find-x-value-of-array-ii](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -221,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+| [3525-find-x-value-of-array-ii](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
