@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0565-array-nesting](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0565-array-nesting/) | Medium |
 | [3331-find-subtree-sizes-after-changes](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 ## Design
@@ -279,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [3331-find-subtree-sizes-after-changes](https://github.com/sameekshadevaraju-boop/DSA/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
@@ -288,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 ## Binary Search Tree
@@ -295,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sameekshadevaraju-boop/DSA/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 ## Data Stream
